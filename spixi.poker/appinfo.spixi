@@ -1,0 +1,9 @@
+{
+  "id": "spixi.poker",
+  "name": "Spixi Poker",
+  "description": "A 2-player light Texas Hold'em game using IXI",
+  "version": "1.0.0",
+  "author": "YourName",
+  "entry": "app/index.html",
+  "icon": "icon.png"
+}
